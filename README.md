@@ -71,7 +71,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarElsalhy&theme=tokyonight&hide_border=true" width="55%"/>
+  <img src="https://streak-stats.demolab.com/?user=OmarElsalhy&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
 
 ---
